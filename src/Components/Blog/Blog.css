@@ -1,0 +1,21 @@
+.our-blog {
+  background-color: rgba(73, 219, 73, 0.596);
+  color: rgb(255, 255, 137);
+}
+.bloging {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.bloging {
+  border: 2px solid black;
+}
+@media only screen and (max-width: 688px) {
+  .bloging {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+@media only screen and (min-width: 689px) and (max-width: 991px) {
+  .bloging {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

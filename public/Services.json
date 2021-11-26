@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "AMBULANCE SERVICE",
+    "img": "https://i.ibb.co/Njcjpcm/ambulance.jpg",
+    "price": 2000,
+    "description": "An ambulance is a medically equipped vehicle which transports patients to treatment facilities, such as hospitals. ... They can rapidly transport paramedics and other first responders to the scene, carry equipment for administering emergency care and transport patients to hospital or other definitive care."
+  },
+  {
+    "id": 2,
+    "name": "OUTDOOR VISIT",
+    "img": "https://i.ibb.co/M70qGvT/Outdoor-visit.jpg",
+    "price": 2000,
+    "description": "An essential visit includes: • Visits for compassionate reasons including critical illness, palliative care, hospice care, end of life and medical assistance"
+  },
+  {
+    "id": 3,
+    "name": "MEDICAL CHECKUP",
+    "img": "https://i.ibb.co/rcPyJFZ/blog2.jpg",
+    "price": 4000,
+    "description": "Definitions of medical checkup. a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person. synonyms: checkup, exam, examination, health check, medical, medical exam, medical examination. type of: examination, scrutiny."
+  },
+  {
+    "id": 4,
+    "name": "ICU SERVICE",
+    "img": "https://i.ibb.co/5KLXNN8/ICU-SERVICE.jpg",
+    "price": 10000,
+    "description": "Intensive Care Units. Intensive care units (ICUs) are areas of the hospital where seriously ill patients receive specialized care such as intensive monitoring and advanced life support. These units are also called critical care units, intensive therapy units, or intensive treatment units."
+  },
+  {
+    "id": 5,
+    "name": "EMERGENCY UNIT",
+    "img": "https://i.ibb.co/Syq9Z05/EMERGENCY-UNIT.webp",
+    "price": 2000,
+    "description": "The law says that it is an emergency if you reasonably believe that it is an emergency. It is an emergency if waiting to get care could be dangerous to your life or a part of your body. A bad injury or a sudden serious illness can be an emergency. Severe pain and active labor are also emergencies."
+  },
+  {
+    "id": 6,
+    "name": "OPERATION THEATER",
+    "img": "https://i.ibb.co/vvKBqJP/blog3.jpg",
+    "price": 10000,
+    "description": "Early dedicated rooms for surgical procedures were called OPERATING THEATRES because they literally were theatres, built in a gallery style for public observation. ... This gallery resembled like the theatre and the purpose being operation, gave rise to the term correctly as OPERATING THEATRE."
+  }
+]

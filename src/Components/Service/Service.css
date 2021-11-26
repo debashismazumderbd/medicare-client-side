@@ -1,0 +1,11 @@
+.cart img {
+  width: 300px;
+  height: 200px;
+}
+.backgroundColor {
+  background-color: lightcyan;
+}
+.cart {
+  height: 500px;
+  overflow: hidden;
+}
